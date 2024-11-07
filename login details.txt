@@ -1,0 +1,22 @@
+https://admin.moralis.com/settings/account
+
+API Key : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjUyZDhjZGZkLTg3OTYtNDM4Zi05OWJkLTA5OTYzNzVhZjVkOCIsIm9yZ0lkIjoiNDEyOTI5IiwidXNlcklkIjoiNDI0MzUxIiwidHlwZUlkIjoiMTVkNzNhMDQtNzU4ZC00MWIzLTg5NWUtZGFkMjI5NjZjMjkwIiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3Mjk2MjAwODksImV4cCI6NDg4NTM4MDA4OX0.I_dvoZkgC65E36mEyrA8058442U79RWlKPDm5kr68TY
+
+https://api.1inch.io/v5.0/1/swap
+
+https://portal.1inch.dev/verification --- kyc verification is needed
+
+"C:\Program Files\Google\Chrome\Application\chrome.exe"   --disable-web-security --user-data-dir="C:/ChromeDevSession"
+
+https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?pli=1
+
+
+pwd : Money#123
+
+Store : list
+
+corn explain salt window street 
+explain tongue giraffe error unique globe coin
+
+
+https://portal.1inch.dev/documentation/apis/authentication
